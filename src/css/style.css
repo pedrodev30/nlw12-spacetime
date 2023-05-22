@@ -20,6 +20,7 @@ nav {
   gap: 16px;
 
   text-decoration: none;
+  margin-bottom: 64px;
 }
 
 .memory small {
