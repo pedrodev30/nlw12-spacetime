@@ -13,6 +13,12 @@ nav {
   padding: 64px;
 }
 
+.memory {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
 .memory small {
   color: #BEBEBF;
   font-size: 12px;
