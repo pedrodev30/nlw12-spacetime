@@ -9,6 +9,10 @@ body {
   color: #EAEAEA;
 }
 
+nav {
+  padding: 64px;
+}
+
 .memory small {
   color: #BEBEBF;
   font-size: 12px;
