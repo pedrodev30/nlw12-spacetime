@@ -8,3 +8,8 @@ body {
   background-color: #121215;
   color: #EAEAEA;
 }
+
+.memory small {
+  color: #BEBEBF;
+  font-size: 12px;
+}
