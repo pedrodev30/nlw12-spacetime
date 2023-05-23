@@ -48,12 +48,12 @@ aside img:nth-child(2) {
 }
 
 aside p {
-  font-size: 32px;
+  font-size: 2rem;
   text-align: center;
 }
 
 aside span {
-  font-size: 12px;
+  font-size: 0.75rem;
   color: #9e9ea0;
 }
 
@@ -75,11 +75,11 @@ nav {
 
 .memory small {
   color: #BEBEBF;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 .memory h1 {
-  font-size: 32px;
+  font-size: 2rem;
   color: #EAEAEA;
 }
 
@@ -91,7 +91,7 @@ nav {
 }
 
 .memory p {
-  font-size: 18px;
+  font-size: 1.2rem;
   color: #bebebf;
   line-height: 28px;
 }
