@@ -49,6 +49,10 @@ aside {
   background-size: auto 100%;
 }
 
+aside * {
+  animation: entering 0.7s ease-in-out;
+}
+
 aside img:nth-child(2) {
   width: 160px;
   height: 160px;
@@ -74,6 +78,7 @@ nav {
   grid-area: timeline;
 
   overflow-y: scroll;
+  animation: entering 0.7s ease-in-out;
 }
 
 .memory {
@@ -119,4 +124,15 @@ nav {
   font-size: 1.2rem;
   color: #bebebf;
   line-height: 28px;
+}
+
+@keyframes entering {
+  from { 
+    opacity: 0;
+    transform: translateY(-200px);
+  }
+  to { 
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
