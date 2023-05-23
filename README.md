@@ -58,3 +58,8 @@ $ Agora abra o arquivo index.html com o live Server
 ```
 
 ---
+
+
+<p align="center">
+  Feito com 💜 por Pedro Henrique
+</p>
