@@ -39,6 +39,21 @@ Você pode visualizar o layoout do projeto através
 [DESSE LINK](https://www.figma.com/file/xllhBAkuLVflqR1WB9SzTj/Capsula-do-Tempo---Trilha-Explorer?type=design&node-id=306%3A3&t=l2mqywaCaALXnqil-1). 
 É necessário ter uma conta no [Figma](https://www.figma.com)
 
+## 🤝 Colaboradores
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/pedrodev30.png" width="100px;" alt="Foto do Pedro Henrique"/><br>
+        <sub>
+          <b>Pedro Henrique</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
