@@ -56,7 +56,7 @@ Você pode visualizar o layoout do projeto através
 
 ## 🎯 Status do projeto
 
-O projeto está finalizado.
+O projeto está finalizado. Veja o arquivo [LICENSE](https://github.com/pedrodev30/nlw12-spacetime/blob/main/LICENSE) para mais detalhes.
 
 ## :memo: Licença
 
