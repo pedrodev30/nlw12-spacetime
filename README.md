@@ -13,14 +13,10 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Você tem uma máquina ```<Windows / Linux / Mac>```
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+## 🔧 Tecnologias utilizadas
 
 - HTML
 - CSS
-
-- [Visite o projeto online](https://nlw12-spacetime.vercel.app)
 
 ## 🏷️ Layout
 Você pode visualizar o layoout do projeto através 
