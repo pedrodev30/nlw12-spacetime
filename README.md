@@ -54,6 +54,10 @@ Você pode visualizar o layoout do projeto através
   </tr>
 </table>
 
+## 🎯 Status do projeto
+
+O projeto está finalizado.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
