@@ -4,15 +4,16 @@
   <img alt="projeto NLW 12 Spacetime" src="./.github/preview.png" width="100%">
 </p>
 
+## 📒 Descrição
+
+Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
 
 - HTML
 - CSS
-
-## 🖥️ Projeto
-Esse é um projeto Web Responsivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
 
 - [Visite o projeto online](https://nlw12-spacetime.vercel.app)
 
